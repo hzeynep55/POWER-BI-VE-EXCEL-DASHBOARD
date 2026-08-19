@@ -1,5 +1,4 @@
 # Excel Dikey Grafik Çalışması
-## Dinamik Şirket Satış ve Tahmin Analitiği Panosu (Dashboard)
 
 Bu proje, bir şirketin yıllık gerçekleşen (Actual) satış verilerini ve gelecek aylara ait satış tahminlerini (Forecast) dinamik bir şekilde görselleştiren interaktif bir grafik panosudur. Veri analitiği ve raporlama süreçlerini otomatikleştirmek amacıyla geliştirilmiştir.
 
